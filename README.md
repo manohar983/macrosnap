@@ -1,3 +1,4 @@
+HEAD
 # MacroSnap
 
 MacroSnap is a Streamlit nutrition chat demo. A student enters their name and WhatsApp number, asks about food or uploads a meal photo, and gets an approximate calorie and macro estimate from Gemini. They can download a text copy or send a conversation summary to WhatsApp through Twilio.
@@ -96,3 +97,6 @@ macrosnap/
 - **Twilio authentication error:** check that the Account SID and Auth Token are real values from the account that owns the sandbox.
 - **Invalid Content SID:** use the template's `HX...` Content SID from that same account.
 - **No response after upload:** use a JPG, PNG, or WEBP image smaller than Streamlit's configured upload limit.
+
+# macrosnap
+0332916ee5c336f567220c1131dad73d4d6ff41a
